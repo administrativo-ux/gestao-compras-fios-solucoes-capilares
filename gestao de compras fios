@@ -5,12 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SGF - Controladoria Fios</title>
     <style>
-        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }
-        iframe { width: 100%; height: 100%; border: none; }
+        body, html { margin: 0; padding: 0; height: 100%; width: 100%; overflow: hidden; background-color: #f0fdf4; }
+        iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
     </style>
 </head>
 <body>
-    <!-- Aqui o segredo: ele puxa o seu sistema e preenche a tela toda -->
-    <iframe src="https://script.google.com/macros/s/AKfycbxn98zcymlg1Aq5YLuiALpKtlqHTmOZErRKQaK_zCM8stQbXoV1Iuwg7wiRjfOB5XPrTw/exec"></iframe>
+    <iframe src="https://script.google.com/macros/s/AKfycbxn98zcymlg1Aq5YLuiALpKtlqHTmOZErRKQaK_zCM8stQbXoV1Iuwg7wiRjfOB5XPrTw/exec" allow="autoplay"></iframe>
 </body>
 </html>
