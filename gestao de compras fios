@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SGF - Controladoria Fios</title>
+    <style>
+        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+        iframe { width: 100%; height: 100%; border: none; }
+    </style>
+</head>
+<body>
+    <!-- Aqui o segredo: ele puxa o seu sistema e preenche a tela toda -->
+    <iframe src="https://script.google.com/macros/s/AKfycbxn98zcymlg1Aq5YLuiALpKtlqHTmOZErRKQaK_zCM8stQbXoV1Iuwg7wiRjfOB5XPrTw/exec"></iframe>
+</body>
+</html>
